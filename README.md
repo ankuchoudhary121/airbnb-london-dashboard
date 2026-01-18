@@ -1,3 +1,5 @@
+
+# Ankita Ankita
 # London Airbnb Analysis Dashboard
 
 Airbnb London Analytics Dashboard
@@ -9,7 +11,7 @@ This project analyzes Airbnb listings in London and presents the results through
 To run the Streamlit dashboard locally:
 1. Download the dataset from Kaggle (link above)
 2. Run the preprocessing notebook to generate `listings_clean_2.csv`
-3. Place the cleaned file in the data directory
+3. Place the cleaned file in the "data" directory
 4. Run:
    streamlit run streamlit_app/app.py
 
